@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T19:56:26 IST" name="Default suite" finished-at="2024-03-12T19:56:57 IST" duration-ms="30365">
+    <groups>
+    </groups>
+    <test started-at="2024-03-12T19:56:26 IST" name="Default test" finished-at="2024-03-12T19:56:57 IST" duration-ms="30365">
+      <class name="Assign_Framework.test.airbusTrainbookingTest">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:Assign_Framework.test.airbusTrainbookingTest@15bb5034]" started-at="2024-03-12T19:56:26 IST" name="testSetup" finished-at="2024-03-12T19:56:31 IST" duration-ms="4375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method signature="railwayTicketBooking(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Assign_Framework.test.airbusTrainbookingTest@15bb5034]" started-at="2024-03-12T19:56:32 IST" name="railwayTicketBooking" data-provider="dataprovider" finished-at="2024-03-12T19:56:56 IST" duration-ms="23808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[awy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alwaye]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[awy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Alwaye]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Apr]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2024]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- railwayTicketBooking -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Assign_Framework.test.airbusTrainbookingTest@15bb5034]" started-at="2024-03-12T19:56:56 IST" name="TearDown" finished-at="2024-03-12T19:56:57 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Assign_Framework.test.airbusTrainbookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

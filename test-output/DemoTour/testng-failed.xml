@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DemoTour]">
+  <test thread-count="5" name="Test automation framework(failed)">
+    <classes>
+      <class name="Assign_Framework.test.flightReservation">
+        <methods>
+          <include name="flightReservationTest" invocation-numbers="0 1 2"/>
+          <include name="TearDown"/>
+          <include name="testSetup"/>
+        </methods>
+      </class> <!-- Assign_Framework.test.flightReservation -->
+    </classes>
+  </test> <!-- Test automation framework(failed) -->
+</suite> <!-- Failed suite [DemoTour] -->
